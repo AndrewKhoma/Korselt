@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\andrew\desktop\andrew\knu\first course\programming\labaratories\first_lab(№16)\korselt\korselt\source.cpp(4): warning C4068: unknown pragma
+c:\users\andrew\desktop\andrew\knu\first course\programming\labaratories\first_lab(№16)\korselt\korselt\source.cpp(93): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Korselt.vcxproj -> C:\Users\Andrew\Desktop\Andrew\KNU\First course\Programming\Labaratories\First_Lab(№16)\Korselt\Debug\Korselt.exe
+  Korselt.vcxproj -> C:\Users\Andrew\Desktop\Andrew\KNU\First course\Programming\Labaratories\First_Lab(№16)\Korselt\Debug\Korselt.pdb (Partial PDB)
