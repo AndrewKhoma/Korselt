@@ -1,2 +1,0 @@
-TRUE
-It's a Korselt num!
