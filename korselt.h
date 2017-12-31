@@ -5,4 +5,8 @@
 #ifndef KORSELT_KORSELT_H
 #define KORSELT_KORSELT_H
 
+#include <cstdint>
+
+bool korselt_criterion(uint64_t number);
+
 #endif //KORSELT_KORSELT_H

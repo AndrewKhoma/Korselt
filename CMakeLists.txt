@@ -3,6 +3,8 @@ project(korselt)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main.cpp korselt.h)
+add_subdirectory(tests)
+
+set(SOURCE_FILES main.cpp korselt.h korselt.cpp)
 
 add_executable(korselt ${SOURCE_FILES})
