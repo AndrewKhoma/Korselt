@@ -3,7 +3,7 @@
 //
 
 #include "gtest/gtest.h"
-#include "../korselt.h"
+#include "../korselt/korselt.h"
 
 #include <unordered_set>
 #include <fstream>

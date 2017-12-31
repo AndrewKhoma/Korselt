@@ -7,7 +7,7 @@ add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/../googletest ${CMAKE_CURRENT_BINAR
 
 include_directories(../../googletest/googletest/include)
 
-set(SOURCE_FILES tests.cpp ../korselt.h ../korselt.cpp)
+set(SOURCE_FILES tests.cpp ../korselt/korselt.h ../korselt/korselt.cpp)
 add_executable(google_test_lab ${SOURCE_FILES})
 
 target_link_libraries(google_test_lab gtest gtest_main)
